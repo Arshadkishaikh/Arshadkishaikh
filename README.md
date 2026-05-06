@@ -6,6 +6,7 @@
 
 *Turning raw data into decisions that actually matter*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0e8a7a?style=for-the-badge)](https://arshadkishaikh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshadkishaikh/)
 [![Email](https://img.shields.io/badge/Email-arshadkishaikh777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arshadkishaikh777@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arshadkishaikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arshadkishaikh)
